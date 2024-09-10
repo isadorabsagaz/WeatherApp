@@ -1,4 +1,9 @@
 # WeatherApp
-A web project to check the weather in any city in the world
+A web project to check the weather in any city in the world!
 
-Made using HTML, CSS, JavaScript and Open Weather - Current Weather Data API
+Tecnologies used: 
+HTML; 
+CSS;
+JavaScript;
+Open Weather - Current Weather Data API (https://openweathermap.org);
+
